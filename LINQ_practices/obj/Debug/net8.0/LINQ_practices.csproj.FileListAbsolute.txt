@@ -1,0 +1,14 @@
+C:\Users\aygne\source\repos\UserPracticeWeb\LINQ_practices\bin\Debug\net8.0\LINQ_practices.exe
+C:\Users\aygne\source\repos\UserPracticeWeb\LINQ_practices\bin\Debug\net8.0\LINQ_practices.deps.json
+C:\Users\aygne\source\repos\UserPracticeWeb\LINQ_practices\bin\Debug\net8.0\LINQ_practices.runtimeconfig.json
+C:\Users\aygne\source\repos\UserPracticeWeb\LINQ_practices\bin\Debug\net8.0\LINQ_practices.dll
+C:\Users\aygne\source\repos\UserPracticeWeb\LINQ_practices\bin\Debug\net8.0\LINQ_practices.pdb
+C:\Users\aygne\source\repos\UserPracticeWeb\LINQ_practices\obj\Debug\net8.0\LINQ_practices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aygne\source\repos\UserPracticeWeb\LINQ_practices\obj\Debug\net8.0\LINQ_practices.AssemblyInfoInputs.cache
+C:\Users\aygne\source\repos\UserPracticeWeb\LINQ_practices\obj\Debug\net8.0\LINQ_practices.AssemblyInfo.cs
+C:\Users\aygne\source\repos\UserPracticeWeb\LINQ_practices\obj\Debug\net8.0\LINQ_practices.csproj.CoreCompileInputs.cache
+C:\Users\aygne\source\repos\UserPracticeWeb\LINQ_practices\obj\Debug\net8.0\LINQ_practices.dll
+C:\Users\aygne\source\repos\UserPracticeWeb\LINQ_practices\obj\Debug\net8.0\refint\LINQ_practices.dll
+C:\Users\aygne\source\repos\UserPracticeWeb\LINQ_practices\obj\Debug\net8.0\LINQ_practices.pdb
+C:\Users\aygne\source\repos\UserPracticeWeb\LINQ_practices\obj\Debug\net8.0\LINQ_practices.genruntimeconfig.cache
+C:\Users\aygne\source\repos\UserPracticeWeb\LINQ_practices\obj\Debug\net8.0\ref\LINQ_practices.dll
