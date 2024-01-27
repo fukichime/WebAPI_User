@@ -1,0 +1,14 @@
+C:\Users\aygne\source\repos\UserPracticeWeb\HowToNotCode\obj\Debug\net8.0\HowToNotCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aygne\source\repos\UserPracticeWeb\HowToNotCode\obj\Debug\net8.0\HowToNotCode.AssemblyInfoInputs.cache
+C:\Users\aygne\source\repos\UserPracticeWeb\HowToNotCode\obj\Debug\net8.0\HowToNotCode.AssemblyInfo.cs
+C:\Users\aygne\source\repos\UserPracticeWeb\HowToNotCode\obj\Debug\net8.0\HowToNotCode.csproj.CoreCompileInputs.cache
+C:\Users\aygne\source\repos\UserPracticeWeb\HowToNotCode\bin\Debug\net8.0\HowToNotCode.exe
+C:\Users\aygne\source\repos\UserPracticeWeb\HowToNotCode\bin\Debug\net8.0\HowToNotCode.deps.json
+C:\Users\aygne\source\repos\UserPracticeWeb\HowToNotCode\bin\Debug\net8.0\HowToNotCode.runtimeconfig.json
+C:\Users\aygne\source\repos\UserPracticeWeb\HowToNotCode\bin\Debug\net8.0\HowToNotCode.dll
+C:\Users\aygne\source\repos\UserPracticeWeb\HowToNotCode\bin\Debug\net8.0\HowToNotCode.pdb
+C:\Users\aygne\source\repos\UserPracticeWeb\HowToNotCode\obj\Debug\net8.0\HowToNotCode.dll
+C:\Users\aygne\source\repos\UserPracticeWeb\HowToNotCode\obj\Debug\net8.0\refint\HowToNotCode.dll
+C:\Users\aygne\source\repos\UserPracticeWeb\HowToNotCode\obj\Debug\net8.0\HowToNotCode.pdb
+C:\Users\aygne\source\repos\UserPracticeWeb\HowToNotCode\obj\Debug\net8.0\HowToNotCode.genruntimeconfig.cache
+C:\Users\aygne\source\repos\UserPracticeWeb\HowToNotCode\obj\Debug\net8.0\ref\HowToNotCode.dll
